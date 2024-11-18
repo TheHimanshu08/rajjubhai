@@ -3,7 +3,7 @@
 #include<conio.h>
 
 void main() {
-    int a,n,j,x,i,y=0,p=0;
+    int a,n,j,x,b,i,y=0,p=0;
     printf("enter no.\n");
     scanf("%d",&n);
     x=n;
