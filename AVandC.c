@@ -1,14 +1,15 @@
 #include <stdio.h>
 #include<conio.h>
 void main() {
-    char c;
+    char a;
+    
     printf("Enter a character: ");
-    scanf("%c", &c);
+    scanf("%c", &a);
 
-    if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||) {
-        printf("vowel", c);
+    if (a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u' ||) {
+        printf("vowel", a);
     } else {
-        printf("consonant", c);
+        printf("consonant", a);
     }
     getch();
 }
