@@ -26,5 +26,5 @@ if (y==b){
 else {
   printf("%d is not arm strong no.",b);
 }
-gech();
+getch();
 }
